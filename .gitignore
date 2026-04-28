@@ -46,3 +46,11 @@ tokens
 tokens.pub
 venv/
 .env
+# Local database and token files
+sakila-db/
+sakila-db.tar.gz
+sakila-db.zip
+tokens
+tokens.pub
+venv/
+.env
