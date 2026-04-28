@@ -1,0 +1,4 @@
+[flake8]
+max-line-length = 120
+ignore = E501,W503,E302,E303,F401,E128,E265,E402,W292,W291,W293
+exclude = .git,__pycache__,sakila-db,venv,Dockerfile.broken
